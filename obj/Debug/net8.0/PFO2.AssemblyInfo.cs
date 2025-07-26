@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PFO2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c293c0f088cb2ab7e2bbf4ff23a7db439a0e343")]
 [assembly: System.Reflection.AssemblyProductAttribute("PFO2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PFO2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
