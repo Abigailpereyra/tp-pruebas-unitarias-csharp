@@ -21,12 +21,11 @@ Implementar una clase `Product` y una clase `ProductManager` con funciones como:
 
 ## 📁 Estructura del proyecto
 
-- `src/`: Contiene las clases `Product` y `ProductManager`
-- `tests/`: Contiene las pruebas unitarias implementadas con [NUnit / xUnit / MSTest]  
-  *(Elegí según el que hayas usado)*
+  tp-pruebas-unitarias/
+├── Product.cs # Clase con los atributos del producto
+├── ProductManager.cs # Clase que maneja la lógica del sistema
+├── Program.cs # Programa principal (opcional para probar)
+├── PFO2.csproj # Configuración del proyecto
+├── PFO2.sln # Solución de Visual Studio
+├── .gitignore # Ignora archivos generados automáticamente
 
-## 🚀 Ejecución
-
-1. Cloná el repositorio:
-```bash
-git clone https://github.com/tu-usuario/tp-pruebas-unitarias.git
