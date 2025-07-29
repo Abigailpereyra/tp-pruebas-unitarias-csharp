@@ -22,11 +22,11 @@ Implementar una clase `Product` y una clase `ProductManager` con funciones como:
 ## 📁 Estructura del proyecto
 
   tp-pruebas-unitarias/
-  
   ├── Product.cs # Clase con los atributos del producto
   ├── ProductManager.cs # Clase que maneja la lógica del sistema
   ├── Program.cs # Programa principal (opcional para probar)
   ├── PFO2.csproj # Configuración del proyecto
   ├── PFO2.sln # Solución de Visual Studio
   ├── .gitignore # Ignora archivos generados automáticamente
+  
 
